@@ -97,7 +97,11 @@ header img {
 
 header .intro-text .name {
     display: block;
+<<<<<<< HEAD
 	text-transform: uppercase;
+=======
+    text-transform: uppercase;
+>>>>>>> a948a44346fb5d81c3c68867a908696c5e85e900
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 500;
